@@ -1,0 +1,6 @@
+research/object_detection/faster_rcnn_resnet101_fgvc_2018_07_19/model.ckpt.meta filter=lfs diff=lfs merge=lfs -text
+research/object_detection/training/model.ckpt-0.data-00000-of-00001 filter=lfs diff=lfs merge=lfs -text
+research/object_detection/faster_rcnn_resnet101_fgvc_2018_07_19/model.ckpt.data-00000-of-00001 filter=lfs diff=lfs merge=lfs -text
+research/object_detection/faster_rcnn_resnet101_fgvc_2018_07_19/frozen_inference_graph.pb filter=lfs diff=lfs merge=lfs -text
+research/object_detection/faster_rcnn_resnet101_fgvc_2018_07_19/saved_model/saved_model.pb filter=lfs diff=lfs merge=lfs -text
+research/object_detection/ssd_mobilenet_v1_coco_11_06_2017/model.ckpt.data-00000-of-00001 filter=lfs diff=lfs merge=lfs -text
